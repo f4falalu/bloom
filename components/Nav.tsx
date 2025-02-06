@@ -33,7 +33,7 @@ export const Nav = () => {
       }
     >
       <div>
-        <HumeLogo className={"h-5 w-auto"} />
+        <img src="https://img.icons8.com/?size=100&id=102228&format=png&color=000000" alt="New Logo" className={"h-5 w-auto"} /> {/* Use the new logo image */}
       </div>
       <div className={"ml-auto flex items-center gap-1"}>
         <Button
